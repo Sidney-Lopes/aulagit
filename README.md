@@ -4,7 +4,7 @@
 3 - git clone https://github.com/Sidney-Lopes/aulagit.git
 4 - git pull
 5 - git status
-6 - git add aulagit/
-7 - git commit -m "- Editando o README com os comandos na pasta Raiz." 
+6 - git add README.md
+7 - git commit -m "- Editando o README." 
 8 - git push origin master
 </pre>
